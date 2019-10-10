@@ -28,3 +28,5 @@
 .img_width {
   width: 100%;
 }
+
+#more-stories::-webkit-scrollbar { width: 0 !important }
