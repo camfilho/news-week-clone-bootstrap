@@ -29,4 +29,26 @@
   width: 100%;
 }
 
+.slide-logo {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: url("https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png") center center no-repeat;
+  background-size: cover;
+  opacity: 0.7;
+  font-weight: bold;
+  width: 90px;
+  height: 80px;
+  font-size: 20px;
+  line-height: 58px;
+  text-indent: 5px;
+  text-align: center;
+}
+
+.text_slideshow {
+  position: relative;
+  top: 15px;
+}
+
 #more-stories::-webkit-scrollbar { width: 0 !important }
