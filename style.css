@@ -59,7 +59,11 @@
 }
 
 .visi {
-  visibility: hidden; 
+  visibility: hidden;
 }
 
+.brand {
+  display: block;
+  width: 200px;
+}
 #more-stories::-webkit-scrollbar { width: 0 !important }
