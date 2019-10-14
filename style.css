@@ -54,8 +54,8 @@
 }
 
 .sticky1 {
-   position: sticky;
-   bottom: 0;
+  position: sticky;
+  bottom: 0;
 }
 
 .visi {
@@ -65,5 +65,24 @@
 .brand {
   display: block;
   width: 200px;
+  fill: red;
+}
+
+.footer  a {
+  color: gray !important;
+  text-decoration: none !important;
+}
+.footer  a:hover{
+  color: black !important;
+}
+
+
+
+.header-middle {
+  width: 90%;
+}
+
+.header-middle__brand {
+  fill: white;
 }
 #more-stories::-webkit-scrollbar { width: 0 !important }
