@@ -76,7 +76,22 @@
   color: black !important;
 }
 
+.tablet-nav {
+  z-index: 1999;
+}
 
+.tablet-nav__logo {
+ fill: white;
+ width: 16%
+}
+
+.tablet-nav__brand {
+  fill: white;
+}
+
+.desktop-nav {
+  z-index: 2000;
+}
 
 .header-middle {
   width: 90%;
