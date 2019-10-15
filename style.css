@@ -18,7 +18,7 @@
   color: #f72210;
   text-transform: uppercase;
   padding: 8px 15px 9px;
-  background-color: rgba(255, 255, 255, .9);
+  background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   bottom: 0;
   left: 0;
@@ -81,7 +81,7 @@
 
 .tablet-nav__logo {
   fill: white;
-  width: 16%
+  width: 16%;
 }
 
 .tablet-nav__brand {
