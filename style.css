@@ -11,9 +11,11 @@
 .wrap {
   position: relative;
 }
+
 .bg-secondary2 {
   background-color: hsla(0, 1%, 90%, 1)!important;
 }
+
 .category {
   display: block;
   font: bold 17px/16px "Roboto Condensed",sans-serif;
@@ -72,6 +74,7 @@
   color: gray !important;
   text-decoration: none !important;
 }
+
 .footer  a:hover{
   color: black !important;
 }
@@ -100,4 +103,3 @@
 .header-middle__brand {
   fill: white;
 }
-#more-stories::-webkit-scrollbar { width: 0 !important }
